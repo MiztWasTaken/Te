@@ -1,0 +1,9 @@
+local info = {
+  status = "enabled";
+  announcement = "";
+  support_discord = {
+    strucid = "Herion#0564";
+    da_hood = "Herion#0564";
+  }
+}
+return info
